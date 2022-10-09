@@ -1,9 +1,9 @@
 package ru.mirea.task4.Author;
 
 public class Author {
-    String name;
-    String email;
-    char gender;
+    private String name;
+    private String email;
+    private char gender;
     public Author(String n, String e, char g) {
         name = n;
         email = e;
