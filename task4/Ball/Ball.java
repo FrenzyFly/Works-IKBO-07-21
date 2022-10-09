@@ -1,7 +1,7 @@
 package ru.mirea.task4.Ball;
 
 public class Ball {
-    double x = 0.0, y = 0.0;
+    private double x = 0.0, y = 0.0;
     public Ball(double xi, double yi) {
         x = xi;
         y = yi;
