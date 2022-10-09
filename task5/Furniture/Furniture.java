@@ -1,6 +1,6 @@
 package ru.mirea.task5.Furniture;
 
-public class Furniture {
+public abstract class Furniture {
     private String model;
     private String colour;
     private int price;
