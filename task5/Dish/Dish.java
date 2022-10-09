@@ -1,6 +1,6 @@
 package ru.mirea.task5.Dish;
 
-public class Dish {
+public abstract class Dish {
     private String form;
     private String colour;
     private int size;
