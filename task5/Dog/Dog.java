@@ -1,6 +1,6 @@
 package ru.mirea.task5.Dog;
 
-public class Dog {
+public abstract class Dog {
     private String name;
     private String gender;
     private int age;
